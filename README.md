@@ -20,6 +20,9 @@ Engineering practices in the day-one contract were adapted from a read-only insp
 of a separate private project, whose name, layout and internal records are deliberately
 not reproduced here.
 
+Licensed under [CC BY 4.0](LICENSE); see [NOTICE.md](NOTICE.md) for scope, character
+pseudonymity, and reference boundaries.
+
 ## The cast is fixed
 
 | Character | Required identity |
